@@ -10,13 +10,11 @@ It is a simple target-style design created using:
 - Hover Effects
 - CSS Animations (optional)
 
----
 
 ## 🚀 Preview
 
 Target style design made using nested div structure.
 
----
 
 ## 🏗️ Project Structure
 outer
@@ -28,7 +26,6 @@ outer
 - `inner` → Second circle  
 - `both` → Center circle  
 
----
 
 ## 💡 Concepts Used
 
@@ -38,7 +35,6 @@ outer
 ✅ CSS Hover Effects  
 ✅ CSS @keyframes Animation  
 
----
 
 ## 🎨 Key CSS Properties
 
